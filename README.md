@@ -1,5 +1,3 @@
-# marketing-campaign-eda
-Exploratory Data Analysis (EDA) of a marketing campaign dataset to uncover customer response patterns, retention trends, and actionable insights using Python.
 # Marketing Campaign Performance & ROI Optimization Analysis
 -Project Overview
 
@@ -109,8 +107,14 @@ Metric Engineering & ROI Simulation
 # Visualizations
 
 ![ROI by Campaign](images/roi_by_campaign.png)
+
+ROI by Campaign
 ![CTR Distribution](images/ctr_distribution.png)
+
+CTR Distribution
 ![Conversions vs Spend](images/conversions_vs_spend.png)
+
+Conversions vs Spend
 
 # Skills Demonstrated
 
