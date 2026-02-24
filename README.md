@@ -108,13 +108,15 @@ Metric Engineering & ROI Simulation
 
 ![ROI by Campaign](images/roi_by_campaign.png)
 
-ROI by Campaign
+*ROI by Campaign*
+
 ![CTR Distribution](images/ctr_distribution.png)
 
-CTR Distribution
+*CTR Distribution*
+
 ![Conversions vs Spend](images/conversions_vs_spend.png)
 
-Conversions vs Spend
+*Conversions vs Spend*
 
 # Skills Demonstrated
 
